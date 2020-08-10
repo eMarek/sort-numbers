@@ -29,7 +29,7 @@ It would take 2 hours, 31 minutes, 0 seconds and 1 milliseconds to execute this 
 
 ### `yarn sort:big`
 
-This command prepares a list of 10000 powers (a^b) where a and b are random numbers between 100 and 10000 and then sorts them. It also measures how much time it takes for completion. It is quite fast since I took [logarithms](https://math.stackexchange.com/questions/2853930/comparing-powers) comparing powers approach.
+This command prepares a list of 10000 powers (a^b) where a and b are random numbers between 100 and 10000 and then sorts them. It also measures how much time it takes for completion. It is quite fast since I took [comparing powers with logarithms](https://math.stackexchange.com/questions/2853930/comparing-powers) approach.
 
 Example:
 
