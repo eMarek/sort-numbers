@@ -1,0 +1,14 @@
+{
+  "name": "sorts-numbers",
+  "version": "1.0.0",
+  "private": "true",
+  "scripts": {
+    "sort:small": "node sorting-small.js",
+    "sort:big": "node sorting-big.js",
+    "prettier": "yarn prettier:write",
+    "prettier:write": "prettier --write ."
+  },
+  "dependencies": {
+    "prettier": "^2.0.5"
+  }
+}
